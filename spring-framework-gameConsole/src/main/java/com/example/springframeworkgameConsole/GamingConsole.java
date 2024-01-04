@@ -1,5 +1,8 @@
 package com.example.springframeworkgameConsole;
 
+import org.springframework.stereotype.Component;
+
+
 public interface GamingConsole {
     void up();
     void down();
