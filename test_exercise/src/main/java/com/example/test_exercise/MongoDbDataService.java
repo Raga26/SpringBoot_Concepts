@@ -10,7 +10,4 @@ public class MongoDbDataService implements DataService{
         return  new int[] {12 , 7 , 94} ;
     }
 
-    public int findMax(){
-        return 0;
-    }
 }

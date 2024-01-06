@@ -12,7 +12,4 @@ public class MySQLDataService implements DataService{
         return  new int[] {12 , 7 , 94 , 78} ;
     }
 
-    public int findMax(){
-        return 7;
-    }
 }

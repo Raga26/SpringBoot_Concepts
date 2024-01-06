@@ -5,5 +5,4 @@ public interface DataService {
 
     public int[] retrieveData();
 
-    public int findMax();
 }
